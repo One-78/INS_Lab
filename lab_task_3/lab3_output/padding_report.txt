@@ -1,0 +1,4 @@
+Mode: ecb, Size: 32 bytes
+Mode: cbc, Size: 32 bytes
+Mode: cfb, Size: 17 bytes
+Mode: ofb, Size: 17 bytes
